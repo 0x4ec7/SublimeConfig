@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SyncedSideBar",
+		"Tag"
+	]
+}
